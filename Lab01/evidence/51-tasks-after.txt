@@ -1,0 +1,21 @@
+RootTask id=1 bounds=[0,0][1080,2400] displayId=0 userId=0
+ configuration={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=home mAlwaysOnTop=undefined mRotation=ROTATION_0} s.62 fontWeightAdjustment=0}
+  taskId=5: com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity bounds=[0,0][1080,2400] userId=0 visible=true topActivity=ComponentInfo{com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity}
+
+RootTask id=26 bounds=[0,0][1080,2400] displayId=0 userId=0
+ configuration={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0} s.62 fontWeightAdjustment=0}
+  taskId=26: host.exp.exponent/host.exp.exponent.experience.ExperienceActivity bounds=[0,0][1080,2400] userId=0 visible=true
+
+RootTask id=27 bounds=[0,0][1080,2400] displayId=0 userId=0
+ configuration={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0} s.62 fontWeightAdjustment=0}
+  taskId=27: host.exp.exponent/host.exp.exponent.experience.HomeActivity bounds=[0,0][1080,2400] userId=0 visible=false topActivity=ComponentInfo{host.exp.exponent/host.exp.exponent.experience.HomeActivity}
+
+RootTask id=28 bounds=[0,0][1080,2400] displayId=0 userId=0
+ configuration={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=standard mAlwaysOnTop=undefined mRotation=ROTATION_0} s.62 fontWeightAdjustment=0}
+  taskId=28: com.android.settings/com.android.settings.homepage.SettingsHomepageActivity bounds=[0,0][1080,2400] userId=0 visible=false topActivity=ComponentInfo{com.android.settings/com.android.settings.homepage.SettingsHomepageActivity}
+
+RootTask id=2 bounds=[0,0][1080,2400] displayId=0 userId=0
+ configuration={1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} s.62 fontWeightAdjustment=0}
+  taskId=3: unknown bounds=[0,0][1080,2400] userId=0 visible=false
+  taskId=4: unknown bounds=[0,2400][1080,3600] userId=0 visible=false
+
